@@ -1,6 +1,5 @@
 ![
-Signal](https://github.com/RingerInteractive/.github/blob/f3a4eece5b8868195e806d9b0e836571f589fbec/ringer_banner?raw=true)
-
+RingerInteractive](https://github.com/RingerInteractive/.github/blob/f3a4eece5b8868195e806d9b0e836571f589fbec/ringer_banner-min.png?raw=true)
 <div align="center">
   <h1>RingerInteractive</h1>
 
